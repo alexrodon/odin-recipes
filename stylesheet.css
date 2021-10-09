@@ -1,0 +1,35 @@
+h1 {
+    background-color: lightsalmon;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 0 25px 25px 0;
+}
+
+.recipebook {
+    position: relative;
+}
+
+.book_title {
+    position: absolute;
+    top: 17px;
+    left: 50px;
+}
+
+.list {
+    position: absolute;
+    top: 50px;
+    left: 28px;
+    font-size: 15px;
+}
+
+.book {
+    height: auto;
+    width: 300px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.directions {
+    background-color: lightsalmon;
+    opacity: 0.8;
+    border-radius: 0 25px 25px 0;
+}
